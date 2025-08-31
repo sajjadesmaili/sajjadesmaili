@@ -54,9 +54,9 @@
 ## 📫 Connect with Me  
 
 <p align="center">
-  <a href="mailto:sajjadesmaili007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:se92060@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sajjad-esmaili-7b4642124/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://jobvision.ir/"><img src="https://img.shields.io/badge/JobVision-000000?style=for-the-badge"/></a>
+
 </p>
 
 ---

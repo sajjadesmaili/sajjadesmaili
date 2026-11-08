@@ -158,13 +158,8 @@ class SajjadEsmaili:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajjadesmaili&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph"/>
+  <img src="https://ghchart.rshah.org/2C99D6/sajjadesmaili" alt="Contribution chart" width="100%"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sajjadesmaili&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="Trophies"/>
-</p>
-
 ---
 
 ## 📫 Let's Connect
@@ -178,5 +173,5 @@ class SajjadEsmaili:
 <p align="center"><i>💡 "In God we trust. All others must bring data." — W. Edwards Deming</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=110&section=footer" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" width="100%"/>
 </p>

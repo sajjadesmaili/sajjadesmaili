@@ -1,7 +1,10 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Sajjad%20Esmaili&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Scientist%20%E2%80%A2%20AI%20%26%20ML%20Engineer%20%E2%80%A2%20Big%20Data%20Analyst&descAlignY=58&descSize=16" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header" alt="header" width="100%"/>
 </p>
+
+<h1 align="center">👋 Hi, I'm Sajjad Esmaili</h1>
+<h3 align="center">Data Scientist • AI & ML Engineer • Big Data Analyst</h3>
 
 <p align="center">
   <a href="https://github.com/sajjadesmaili">
